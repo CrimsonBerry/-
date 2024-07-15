@@ -10,6 +10,8 @@
 
 Play Store 是 Android 的重要组件，然而在中国制造的手机上却不见踪影。
 Kirin 980 之后的华为手机请另寻别处
+Google 竞争不过 baidu 自己退出了中国大陆
+Github 竞争不过 Gitcode 估计也会推出
 
 ## 1.Zlibrary 清风不识字，何必乱翻电子书。
 ### 主网站
@@ -37,7 +39,7 @@ Kirin 980 之后的华为手机请另寻别处
 Tor 或者叫暗网，无法直接打开
 
 
-## 2.PicAcg
+## 2.PicAcg 哔咔漫画
 ###  主网站
     - https://pica2023.com/
 ###  Android 下载地址
@@ -50,7 +52,7 @@ Tor 或者叫暗网，无法直接打开
 PicAcg 可以在 百度/Google/Yandex 等搜索到官方网站，中国版 bing 却不行。    
 iOS 由于安装软件需要一定的操作，所以建议使用上述第三个 PWA 版本。
 
-## 3.Jmcomic
+## 3.Jmcomic 禁漫天堂
 ### 主网站
     - https://jmcomictwo.org/
 ### Android 下载地址
