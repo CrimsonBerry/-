@@ -11,7 +11,7 @@
 Play Store 是 Android 的重要组件，然而在中国制造的手机上却不见踪影。
 Kirin 980 之后的华为手机请另寻别处
 
-## 1.Zlibrary
+## 1.Zlibrary 清风不识字，何必乱翻电子书。
 ### 主网站
     - https://zlibrary.st/new-z-library-official-website-links
 ### 正在服役的网站
@@ -34,7 +34,6 @@ Kirin 980 之后的华为手机请另寻别处
     - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion
     - http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion
     
-清风不识字，何必乱翻电子书。
 Tor 或者叫暗网，无法直接打开
 
 
