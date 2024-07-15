@@ -37,7 +37,7 @@ Github 竞争不过 Gitcode 估计也会推出
     - http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion
     - http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion
     
-Tor 或者叫暗网，无法直接打开,zlibrary 是一个特例，因为又太多盗版网站充斥在搜索结果上。
+Tor 或者叫暗网，无法直接打开,zlibrary 是一个特例，因为有太多盗版网站充斥在搜索结果上。
 
 
 ## 2.PicAcg 哔咔漫画
