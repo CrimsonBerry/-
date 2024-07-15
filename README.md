@@ -37,7 +37,7 @@ Kirin 980 之后的华为手机请另寻别处
 Tor 或者叫暗网，无法直接打开
 
 
-## 1.PicAcg
+## 2.PicAcg
 ###  主网站
     - https://pica2023.com/
 ###  Android 下载地址
@@ -50,7 +50,7 @@ Tor 或者叫暗网，无法直接打开
 PicAcg 可以在 百度/Google/Yandex 等搜索到官方网站，中国版 bing 却不行。    
 iOS 由于安装软件需要一定的操作，所以建议使用上述第三个 PWA 版本。
 
-## 2.Jmcomic
+## 3.Jmcomic
 ### 主网站
     - https://jmcomictwo.org/
 ### Android 下载地址
