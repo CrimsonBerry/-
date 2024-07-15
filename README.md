@@ -27,6 +27,7 @@ Github 竞争不过 Gitcode 估计也会推出
     - es.1lib.sk
     - it.1lib.sk
 ### 已关闭的网站
+
     - z-library.se
     - singlelogin.se
     - zlibrary-global.se
@@ -65,9 +66,15 @@ iOS 由于安装软件需要一定的操作，所以建议使用上述第三个 
 iOS 商店无法找到官方描述的 JM瀏覽器。且没有替代的 PWA 应用。
 懒得折腾签证就放弃吧
 
+## 4.Ehentai e站
+### e站没有官方 app 可用 app 大多为第三方，其中以 ehviewer 最为知名。
 
+### Ehviewer 下载
+#### https://github.com/FooIbar/EhViewer 项目页面
+#### https://github.com/FooIbar/EhViewer/releases
+#### 一般选择 EhViewer-版本号-default-arm64-v8a.apk 即可
 
-
+ehviewer 都是用爱发电，且用且珍惜。
 
 
 
