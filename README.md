@@ -18,14 +18,14 @@ Github 竞争不过 Gitcode 估计也会推出
 ### 主网站
 #### https://zlibrary.st/new-z-library-official-website-links
 ### 正在服役的网站
-#### zlibrary-asia.se
-#### singlelogin.re
-#### es.singlelogin.re
-#### it.singlelogin.re
-#### z-lib.gs
-#### 1lib.sk
-#### es.1lib.sk
-#### it.1lib.sk
+#### https://zlibrary-asia.se
+#### https://singlelogin.re
+#### https://es.singlelogin.re
+#### https://it.singlelogin.re
+#### https://z-lib.gs
+#### https://1lib.sk
+#### https://es.1lib.sk
+#### https://it.1lib.sk
 ### 已关闭的网站
 
     - z-library.se
